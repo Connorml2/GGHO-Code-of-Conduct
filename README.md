@@ -6,14 +6,14 @@ Table of Contents
 
 1. Introduction
 2. Customer Protection Requirements
-	--1. Money Back Period 
-	--2. Customer Data Security
-	--3. Customer Data Redundancy
-	--4. Payment Solution Requirements
-		---1. PayPal
-	--5. Transmission of Details
-		---1. SSL
-		---2. PCI Compliance
+	- Money Back Period 
+	- Customer Data Security
+	- Customer Data Redundancy
+	- Payment Solution Requirements
+		* PayPal
+	- Transmission of Details
+		* SSL
+		* PCI Compliance
 3. Customer Interaction Requirements
 a.Communication Requirements
 i.Required Modules
