@@ -15,10 +15,10 @@ Table of Contents
 		i.SSL
 		ii.PCI Compliance
 3. Customer Interaction Requirements
-	a.Communication Requirements
-		i.Required Modules
-		ii.Email Module Reccomendations
-		iii.Support Ticket Module Requirements
-		iv.Live Support Recommendation
-	b.GGHO Support Representative Test
-	c.Response times
+a.Communication Requirements
+i.Required Modules
+ii.Email Module Reccomendations
+iii.Support Ticket Module Requirements
+iv.Live Support Recommendation
+b.GGHO Support Representative Test
+c.Response times
