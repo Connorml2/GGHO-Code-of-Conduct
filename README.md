@@ -1,7 +1,7 @@
 #GGHO - Code of Conduct
 
 ####To Do
-[ ] Format current codes in markdown.
+- [ ] Format current codes in markdown.
 
 This is the code of conduct all of our Service Providers have to agree to.
 
