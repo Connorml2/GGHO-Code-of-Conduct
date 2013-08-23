@@ -1,5 +1,5 @@
 3. Customer Interaction Requirements 
-	-In order to protect customers from inactive service providers, and service provider with extremely poor “client to staff” communication, the following requirements have been set in place.
+	- In order to protect customers from inactive service providers, and service provider with extremely poor “client to staff” communication, the following requirements have been set in place.
 		* A service provider must have a Support Ticket Module monitored for at least 10 hours a day.
 		* The Support Ticket Module must allow for the selection of services which have been troubled.
 		* Email Support has no requirements, but is recommended that it be monitored for at least 10 hours a day. GGHO recommends against email support, due to tracking issues. We recommend that you ‘pipe’ your emails to your support system.
