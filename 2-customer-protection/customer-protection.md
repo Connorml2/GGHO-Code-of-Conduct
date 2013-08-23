@@ -1,4 +1,4 @@
-1. Customer Protection Requirements
+3. Customer Protection Requirements
 	- In order to protect customers that change their mind, all Service Providers must agree to an unconditional money back policy of at least 3 days. The Service Provider must issue a refund within 24 hours of the customer requesting.
 	- In order to protect customers access to systems must strictly be controlled. Although this requirement can not be directly monitored we request that our hosts use strong passwords on their systems, with private key authentication where possible. 
 	- To protect customer data, all hosts must employ some form of data backup / retention from disk failure. The requirement of this is at least one copy, however more than one is prefered. An example basic implementation of this would be a RAID 1 disk array, whereas a prefered implementation would be a RAID 1 with daily offsite backups. 

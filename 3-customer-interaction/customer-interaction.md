@@ -1,4 +1,4 @@
-2. Customer Interaction Requirements 
+3. Customer Interaction Requirements 
 	-In order to protect customers from inactive service providers, and service provider with extremely poor “client to staff” communication, the following requirements have been set in place.
 		* A service provider must have a Support Ticket Module monitored for at least 10 hours a day.
 		* The Support Ticket Module must allow for the selection of services which have been troubled.
