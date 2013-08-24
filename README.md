@@ -22,3 +22,7 @@ Table of Contents
 		* Live Support Recommendation
 	- GGHO Support Representative Test
 	- Response times
+4. Anticompetitive Practices
+	- Targeted actions
+	- Attacks on 3rd parties
+	- General Anticompetitive Practices
