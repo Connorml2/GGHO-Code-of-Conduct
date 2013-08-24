@@ -1,4 +1,4 @@
- 4. Anticompetitive practices.
+4. Anticompetitive practices.
  	- Hosts may not engage in actions, marketing campaigns, or any action targeting a specific competing host. This includes but is not limited to:
  		* "Smear" campaigns
  		* Posting on another's forum topic
