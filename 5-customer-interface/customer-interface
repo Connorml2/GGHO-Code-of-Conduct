@@ -4,7 +4,11 @@
 		ii) Your website must be well put together, and that you have a proper domain name. Subdomains are not allowed.
 		iii) It is recommended but not enforced that you do not use a web template. 
 
-	b) The GGHO Providers must have a billing management soltuion, as well as either a game panel solution, or dedicated/VPS management solution.
+	b) The GGHO Providers must have a billing management soltuion
 		i) We recommend that your billing management solution has automated setup capabilities, and that you take advantage of this feature.
-		ii) We also recommend that your billign management solution has fraud detection capabilities, and that you take advantage of this feature.
-		
+		ii) We also recommend that your billing management solution has fraud detection capabilities, and that you take advantage of this feature.
+		iii) We require that this panel be secure and safe for users.
+
+	c) GGHO Providers must have either a game panel solution, or dedicated/VPS management solution.
+		i) We recommend that your panel have a custom theme, however this is not required.
+		ii) We require that this panel be secure and safe for users.
