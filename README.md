@@ -1,5 +1,7 @@
 #GGHO - Code of Conduct
 
+********Please note: This is a work in progress********
+
 This is the code of conduct all of our Service Providers have to agree to.
 
 Table of Contents
