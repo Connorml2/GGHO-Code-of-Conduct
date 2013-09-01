@@ -1,5 +1,4 @@
-
- 5. In order to allow clients to feel safe and secure, as well as actually be safe and secure the following measures and restrictions have been set in place,
+5. In order to allow clients to feel safe and secure, as well as actually be safe and secure the following measures and restrictions have been set in place,
  	- Your website must be appealing, as well as professional.
 		* There must be minimal spelling and grammar errors, and minimal HTML/CSS/JS errors.
 		* Your website must be well put together, and that you have a proper domain name. Subdomains are not allowed.
