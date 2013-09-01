@@ -8,3 +8,4 @@
 		* It is a requirement for all service providers to enable SSL on their site, to allow client details to be transmitted encrypted. We recommend that service providers use EV SSL where possible.
 		* When service providers are accepting payment details directly on their site, then must ensure they meet PCI compliance, as required by local authorities. 
 		
+		
