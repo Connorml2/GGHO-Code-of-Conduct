@@ -9,6 +9,4 @@
 		* We require that this panel be secure and safe for users.
 	- GGHO Providers must have either a game panel solution, or dedicated/VPS management solution.
 		* We recommend that your panel have a custom theme, however this is not required.
-		* We require that this panel be secure and safe for users.
-	
-	
+		* We require that this panel be secure and safe for users.  

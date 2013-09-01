@@ -6,6 +6,4 @@
 		* To ensure legitimacy with the purchasing of products or services through the applicant through PayPal, we require that all business PayPal accounts be of “Verified” status, which must be displayed on your website at all times on any part of the site, however it is recommended to be in the footer. NOTE: If you do not use PayPal, this step is not required.
 	- In order to maintain clients privacy while transmitting data to service providers, we require certain security protocols to be in place.
 		* It is a requirement for all service providers to enable SSL on their site, to allow client details to be transmitted encrypted. We recommend that service providers use EV SSL where possible.
-		* When service providers are accepting payment details directly on their site, then must ensure they meet PCI compliance, as required by local authorities. 
-		
-		
+		* When service providers are accepting payment details directly on their site, then must ensure they meet PCI compliance, as required by local authorities.  

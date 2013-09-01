@@ -9,6 +9,4 @@
  	- In addition, generally anticompetitive practices are disallowed. This includes:
  		- Dumping for an extended period of time
  		- Price fixing
- 		- Tying
-  
-  
+ 		- Tying  
