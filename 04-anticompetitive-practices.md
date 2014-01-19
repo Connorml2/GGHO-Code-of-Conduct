@@ -5,7 +5,7 @@
  		* Libel
  		* Domain name "sniping"
  		* Denial of Service attacks
-    - In this instance domain name sniping is specified as purchasing a domain name pertinant to the opposition's company and/or registering a domain name once registration has lapsed, directly after expiry.
+    - In this instance domain name sniping is specified as purchasing a domain name pertinant to the opposition's company while that company is still in business and/or registering a domain name once registration has lapsed, directly after expiry assuming the company is still in operation.
  	- It is *disallowed* to carry out an attack of any kind on another party, be it a customer, host, or 3rd party organisation.
  	- In addition, generally anticompetitive practices are *disallowed*. This includes:
  		- Dumping for an extended period of time
