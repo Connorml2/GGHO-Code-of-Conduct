@@ -5,7 +5,7 @@
 		* It is *recommended* that backend services, such as SSH or MySQL, not be on a public IP address.
 	- To protect customer data, all hosts *must* employ redundancy in the case of a hardware failure. An example basic implementation of this would be a RAID 1 disk array, whereas a prefered implementation would be a RAID 1 with daily offsite backups. 
 	- In order to ensure customer payment security, hosts *must* meet compliance with their payment processing partners.
-		* To ensure legitimacy with the purchasing of products or services through the applicant through PayPal, we require that all business PayPal accounts be of "Verified" status, which must be displayed on your website.
+		* To ensure legitimacy with the purchasing of products or services through the applicant through PayPal, we require that all business PayPal accounts be of "Verified" status.
 		* Credit card information or other financial information *must not* be stored in an easily readable or reversible form.
 	- In order to maintain clients' privacy while transmitting data to service providers, we require certain security protocols to be in place.
 		* Hosts *must* enable SSL on their site, to allow client details to be transmitted encrypted. We recommend that service providers use EV SSL where possible.
