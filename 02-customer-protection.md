@@ -1,5 +1,5 @@
 2. Customer Protection Requirements
-	- In order to protect customers which may not find a Provider's services suitable, all Service Providers *must* agree to an unconditional money back policy of at least 3 days. The Service Provider must issue a refund within 24 hours of the customer's refund request.
+	- In order to protect customers which may not find a Provider's services suitable, all Service Providers *must* agree to a money back policy of at least 3 days, if the customer has any issues with the server. The Service Provider must issue a refund within 24 hours of the customer's refund request. It would be prefered that this money back policy is unconditional. 
 	- In order to protect customers, access to systems must strictly be controlled.
 		* Private keys *are recommended* to be used when possible, such as over the SSH and SFTP protocols.
 		* It is *recommended* that backend services, such as SSH or MySQL, not be on a public IP address.
